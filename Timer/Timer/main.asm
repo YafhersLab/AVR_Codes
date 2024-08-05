@@ -1,0 +1,27 @@
+		RJMP	Setup
+		.ORG	0x0020
+		RJMP	RSI_T0
+
+Setup:
+		SEI		
+		LDI		R16, 0xFF
+		LDI		R17, 0x08
+		OUT		DDRD, R16
+		OUT		SPH, R17
+		OUT		SPL, R16
+		LDI		R18, 0x00
+		OUT		PORTD, R18
+		LDI		R19, 0X05
+		OUT		TCCR0B, R19
+		LDI		R20, 0x01
+		STS		TIMSK0, R20
+		LDI		R21, 0x00
+		OUT		TCNT0, R21
+
+Loop:
+		RJMP	Loop
+		
+RSI_T0:
+		INC		R18
+		OUT		PORTD, R18
+		RETI

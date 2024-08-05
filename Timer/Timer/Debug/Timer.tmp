@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Proyectos\AVR_Codes\Timer\Timer\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Proyectos\AVR_Codes\Timer\Timer\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Proyectos\AVR_Codes\Timer\Timer\Debug\Timer.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Timer.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Timer.map</FILE>
+  <FILE>Timer.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Setup><FILE>D:\Proyectos\AVR_Codes\Timer\Timer\main.asm</FILE><LINE>5</LINE></Setup>
+  <RSI_T0><FILE>D:\Proyectos\AVR_Codes\Timer\Timer\main.asm</FILE><LINE>24</LINE></RSI_T0>
+  <Loop><FILE>D:\Proyectos\AVR_Codes\Timer\Timer\main.asm</FILE><LINE>21</LINE></Loop>
+ </LABELS>
+</ASSEMBLER_INFO>

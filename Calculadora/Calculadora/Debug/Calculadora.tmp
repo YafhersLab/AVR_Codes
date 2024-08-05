@@ -1,0 +1,56 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\Debug\Calculadora.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Calculadora.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Calculadora.map</FILE>
+  <FILE>Calculadora.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Setup><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>1</LINE></Setup>
+  <Loop><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>7</LINE></Loop>
+  <Pausa_20ms><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>193</LINE></Pausa_20ms>
+  <Sumar><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>34</LINE></Sumar>
+  <Restar><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>49</LINE></Restar>
+  <LeerNumero><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>64</LINE></LeerNumero>
+  <Pausa_1s><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>204</LINE></Pausa_1s>
+  <M1><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>78</LINE></M1>
+  <siete><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>217</LINE></siete>
+  <M2><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>90</LINE></M2>
+  <ocho><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>223</LINE></ocho>
+  <M3><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>102</LINE></M3>
+  <nueve><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>229</LINE></nueve>
+  <M4><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>114</LINE></M4>
+  <cuatro><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>235</LINE></cuatro>
+  <M5><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>126</LINE></M5>
+  <cinco><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>241</LINE></cinco>
+  <M6><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>138</LINE></M6>
+  <seis><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>247</LINE></seis>
+  <M7><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>150</LINE></M7>
+  <uno><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>253</LINE></uno>
+  <M8><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>162</LINE></M8>
+  <dos><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>259</LINE></dos>
+  <M9><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>174</LINE></M9>
+  <tres><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>265</LINE></tres>
+  <MX><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>187</LINE></MX>
+  <cero><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>271</LINE></cero>
+  <M10><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>190</LINE></M10>
+  <L1><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>196</LINE></L1>
+  <L2><FILE>D:\Proyectos\AVR_Codes\Calculadora\Calculadora\main.asm</FILE><LINE>208</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>

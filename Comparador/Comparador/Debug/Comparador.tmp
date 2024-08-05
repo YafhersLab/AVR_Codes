@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Proyectos\AVR_Codes\Comparador\Comparador\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Proyectos\AVR_Codes\Comparador\Comparador\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Proyectos\AVR_Codes\Comparador\Comparador\Debug\Comparador.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Comparador.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Comparador.map</FILE>
+  <FILE>Comparador.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Setup><FILE>D:\Proyectos\AVR_Codes\Comparador\Comparador\main.asm</FILE><LINE>1</LINE></Setup>
+  <Loop><FILE>D:\Proyectos\AVR_Codes\Comparador\Comparador\main.asm</FILE><LINE>8</LINE></Loop>
+  <Igual><FILE>D:\Proyectos\AVR_Codes\Comparador\Comparador\main.asm</FILE><LINE>24</LINE></Igual>
+  <NAlto><FILE>D:\Proyectos\AVR_Codes\Comparador\Comparador\main.asm</FILE><LINE>20</LINE></NAlto>
+ </LABELS>
+</ASSEMBLER_INFO>
